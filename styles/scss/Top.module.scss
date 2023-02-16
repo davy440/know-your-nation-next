@@ -1,0 +1,35 @@
+@import 'variables';
+// Logo Styling
+
+.topBar {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding: 1.5rem 0;
+    display: flex;
+    align-items: center;
+    z-index: 9;
+}
+
+.logoWrapper {
+    display: inline-block
+}
+
+.logo {
+    max-width: 10rem;
+}
+
+.navigation {
+    margin-left: auto;
+    color: $white;
+    display: none;
+
+    @include for-tablet-up {
+        display: block;
+    }
+}
+
+.li {
+    float: left;
+}

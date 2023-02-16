@@ -1,0 +1,17 @@
+// Styling for Banner Component
+@import 'variables';
+
+.banner {
+    background: linear-gradient(144deg, rgba(18,29,112,1) 0%, rgba(22,90,222,1) 100%);
+    display: flex;
+}
+
+.bannerWrapper {
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    color: $white;
+    @extend .bold;
+}

@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "PORT=3002 next dev",
+    "build": "PORT=3002 next build",
+    "start": "PORT=3002 next start",
     "lint": "next lint"
   },
   "dependencies": {
@@ -14,6 +14,10 @@
     "eslint-config-next": "13.1.6",
     "next": "13.1.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-lottie": "^1.2.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.6"
   }
 }

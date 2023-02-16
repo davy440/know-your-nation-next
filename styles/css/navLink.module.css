@@ -1,0 +1,12 @@
+.bold {
+  font-weight: 700;
+}
+
+.link {
+  padding: 0.8rem 1.2rem;
+}
+.link:hover {
+  color: #000000;
+  background-color: #ffffff;
+  border-radius: 4px;
+}

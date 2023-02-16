@@ -1,0 +1,11 @@
+@import 'variables';
+
+.link {
+  padding: 0.8rem 1.2rem;
+
+  &:hover {
+    color: $black;
+    background-color: $white;
+    border-radius: $br-small;
+  }
+}

@@ -1,0 +1,106 @@
+// Variables for modules
+
+
+// ==========================
+// Color Variables
+// ==========================
+$white: #ffffff;
+$black: #000000;
+$primary: #ff8383;
+$primary-light: #ffa4a4;
+$primary-dark: #ed6969;
+$br-small: 4px;
+$br-large: 8px;
+
+.bold {
+    font-weight: 700;
+}
+
+// ==========================
+//    Breakpoint variables
+// ==========================
+$phone-breakpoint: 30rem;
+$tablet-breakpoint: 48rem;
+$laptop-breakpoint: 60rem;
+$desktop-breakpoint: 68.5625rem;
+$news-archive-single-col-breakpoint: 37.5rem;
+$desktop-font-size-breakpoint: 78rem;
+
+//==================================================================
+// MEDIA QUERY MIXINS
+//==================================================================
+//==== MIN WIDTHS ==================================================
+@mixin for-phone-up {
+    @media (min-width: $phone-breakpoint) {
+        @content;
+    }
+}
+@mixin for-tablet-up {
+    @media (min-width: $tablet-breakpoint) {
+        @content;
+    }
+}
+@mixin for-laptop-up {
+    @media (min-width: $laptop-breakpoint) {
+        @content;
+    }
+}
+@mixin for-desktop-up {
+    @media (min-width: $desktop-breakpoint) {
+        @content;
+    }
+}
+@mixin for-custom-up($screen-width) {
+    @media (min-width: $screen-width) {
+        @content;
+    }
+}
+
+//==== MAX WIDTHS ==================================================
+@mixin for-phone-down {
+    @media (max-width: $phone-breakpoint - 0.0625rem) {
+        @content;
+    }
+}
+@mixin for-tablet-down {
+    @media (max-width: $tablet-breakpoint - 0.0625rem) {
+        @content;
+    }
+}
+@mixin for-laptop-down {
+    @media (max-width: $laptop-breakpoint - 0.0625rem) {
+        @content;
+    }
+}
+@mixin for-desktop-down {
+    @media (max-width: $desktop-breakpoint - 0.0625rem) {
+        @content;
+    }
+}
+@mixin for-custom-down($screen-width) {
+    @media (max-width: $screen-width - 0.0625rem) {
+        @content;
+    }
+}
+
+//==== BROWSER SPECIFIC =============================================
+@mixin for-ie11 {
+    @media (-ms-high-contrast: none), (-ms-high-contrast: active) {
+        @content;
+    }
+}
+@mixin for-ms-edge {
+    @supports (-ms-ime-align: auto) {
+        @content;
+    }
+}
+
+//==== SPECIAL CASES =================================================
+@mixin for-laptop-up-with-hover {
+    @media (min-width: $laptop-breakpoint) and (hover: hover), (-ms-high-contrast: none), (-ms-high-contrast: active) {
+        @content;
+    }
+}
+
+//==== BETWEEN CUSTOM WIDTHS =============================================
+@mixin for-custom-between($min-width, $max-width) { @media (min-width: $min-width) and (max-width: $max-width - 0.0625rem) { @content; } }

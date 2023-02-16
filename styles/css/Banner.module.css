@@ -1,0 +1,17 @@
+.bold, .title {
+  font-weight: 700;
+}
+
+.banner {
+  background: linear-gradient(144deg, rgb(18, 29, 112) 0%, rgb(22, 90, 222) 100%);
+  display: flex;
+}
+
+.bannerWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  color: #ffffff;
+}
