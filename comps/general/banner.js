@@ -1,7 +1,7 @@
 import { TopBar } from './top';
 import { useState } from 'react';
 import Lottie from 'react-lottie';
-import * as AnimationData from '@/public/anim.json';
+import * as AnimationData from '@/public/Map.json';
 import styles from '@/styles/css/Banner.module.css';
 
 
