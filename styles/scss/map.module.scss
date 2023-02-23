@@ -1,0 +1,61 @@
+// World Map Module
+
+.pointer {
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.northAmerica {
+
+    &:hover {
+        fill: #2c4999;
+    }
+
+    @extend .pointer;
+}
+
+.southAmerica {
+
+    &:hover {
+        fill: #4f963b;
+    }
+
+    @extend .pointer;
+}
+
+.europe {
+
+    &:hover {
+        fill: #d87b16;
+    }
+
+    @extend .pointer;
+}
+
+.asia {
+
+    &:hover {
+        fill: #147a30;
+    }
+
+    @extend .pointer;
+}
+
+.africa {
+
+    &:hover {
+        fill: #c11724;
+    }
+
+    @extend .pointer;
+}
+
+.oceania {
+
+    &:hover {
+        fill: #bf1168;
+    }
+
+    @extend .pointer;
+}

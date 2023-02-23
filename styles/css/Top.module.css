@@ -7,7 +7,8 @@
   left: 0;
   right: 0;
   margin: auto;
-  padding: 1.5rem 0;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
   display: flex;
   align-items: center;
   z-index: 9;
@@ -24,14 +25,80 @@
 .navigation {
   margin-left: auto;
   color: #ffffff;
-  display: none;
-}
-@media (min-width: 48rem) {
-  .navigation {
-    display: block;
-  }
 }
 
 .li {
   float: left;
+}
+
+.link {
+  padding: 0.8rem 1.2rem;
+}
+.link:hover, .link:active {
+  color: #000000;
+  background-color: #ffffff;
+  border-radius: 4px;
+}
+
+.btn {
+  position: relative;
+  margin-left: auto;
+  height: 0.25rem;
+  width: 2.25rem;
+  border-radius: 0.25rem;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.btn:before, .btn:after {
+  content: "";
+  position: absolute;
+  height: 0.25rem;
+  width: 2.25rem;
+  border-radius: 0.2rem;
+  background-color: #ffffff;
+  left: 0;
+}
+.btn:before {
+  bottom: 0.75rem;
+}
+.btn:after {
+  top: 0.75rem;
+}
+
+.mobileNavWrapper {
+  position: fixed;
+  background-color: white;
+  height: 100%;
+  width: 16rem;
+  right: 0;
+  top: 0;
+  z-index: 9;
+  padding-left: 1.5rem;
+}
+
+.liMobile {
+  padding: 0.8rem 0;
+}
+
+.close {
+  position: relative;
+  min-height: 2rem;
+  min-width: 2rem;
+  margin: 2rem auto;
+}
+.close:before, .close:after {
+  content: "";
+  position: absolute;
+  height: 0.25rem;
+  width: 1.75rem;
+  border-radius: 0.2rem;
+  background-color: #000000;
+  left: 0;
+  transform-origin: center;
+}
+.close:before {
+  transform: rotate(45deg);
+}
+.close:after {
+  transform: rotate(-45deg);
 }

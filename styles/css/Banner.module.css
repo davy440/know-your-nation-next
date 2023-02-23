@@ -1,17 +1,50 @@
-.bold, .title {
+.bold {
   font-weight: 700;
 }
 
-.banner {
+.homeBanner {
+  position: relative;
   background: linear-gradient(144deg, rgb(18, 29, 112) 0%, rgb(22, 90, 222) 100%);
   display: flex;
+}
+.homeBanner:after {
+  content: url("../../public/wave.svg");
+  position: absolute;
+  display: flex;
+  z-index: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin-bottom: -1px;
+}
+
+.defBanner {
+  composes: homeBanner;
+  height: 20rem;
+  color: #ffffff;
+  align-items: flex-end;
+}
+.defBanner:after {
+  content: "";
 }
 
 .bannerWrapper {
   display: flex;
   align-items: center;
+  height: 100%;
 }
 
 .title {
   color: #ffffff;
+}
+
+.pageTitle {
+  composes: title;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+@media (min-width: 48rem) {
+  .pageTitle {
+    font-size: 4rem;
+  }
 }

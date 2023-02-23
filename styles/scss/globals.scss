@@ -1,3 +1,4 @@
+@import 'variables';
 @import url(https://fonts.googleapis.com/css2?family=Nunito&family=Poppins:wght@400;700&display=swap);
 
 *,
@@ -47,6 +48,12 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
+  letter-spacing: 0.03rem;
+}
+
+#content {
+    padding-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 /*
@@ -153,15 +160,6 @@ sup {
 2. Correct table border color inheritance in all Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=935729, https://bugs.webkit.org/show_bug.cgi?id=195016)
 3. Remove gaps between table borders by default.
 */
-
-table {
-  text-indent: 0;
-  /* 1 */
-  border-color: inherit;
-  /* 2 */
-  border-collapse: collapse;
-  /* 3 */
-}
 
 /*
 1. Change the font styles in all browsers.
@@ -414,29 +412,38 @@ h1, h2, h3, h4, h5, h6{
 h1{
   font-size: 3.75rem;
   line-height: 1;
+  margin-bottom: 1.5rem;
 }
 
-@media (min-width: 768px){
+@include for-tablet-up {
   h1{
     font-size: 6rem;
-    line-height: 1;
+    line-height: 1.5;
   }
 }
 
 h2{
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1;
+  font-weight: 700;
+  margin: 3rem auto;
+
+  &.section-title {
+    text-align: center;
+  }
 }
 
-@media (min-width: 768px){
+@include for-tablet-up {
   h2{
-    font-size: 4.5rem;
+    font-size: 3rem;
     line-height: 1;
   }
 }
 
-.container{
+.container {
   width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 @media (min-width: 640px){
@@ -488,4 +495,30 @@ h2{
 
 a {
     transition: all 100ms ease-in-out;
+}
+
+table {
+    border: solid 1px #ddd;
+    display: inline-block;
+    border-radius: $br-large;
+    border-collapse: collapse;
+    overflow: hidden;
+    width: 100%;
+
+    tr {
+        display: inline-block;
+        width: 100%;
+        border-bottom: solid 1px #eee;
+    }
+
+    th, td {
+        display: inline-block;
+        width: 33.33%;
+        padding: 1.6rem 1.2rem;
+    }
+
+    th {
+        background-color: #eee;
+        text-align: left;
+    }
 }

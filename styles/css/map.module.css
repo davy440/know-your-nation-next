@@ -1,0 +1,27 @@
+.pointer:hover, .oceania:hover, .africa:hover, .asia:hover, .europe:hover, .southAmerica:hover, .northAmerica:hover {
+  cursor: pointer;
+}
+
+.northAmerica:hover {
+  fill: #2c4999;
+}
+
+.southAmerica:hover {
+  fill: #4f963b;
+}
+
+.europe:hover {
+  fill: #d87b16;
+}
+
+.asia:hover {
+  fill: #147a30;
+}
+
+.africa:hover {
+  fill: #c11724;
+}
+
+.oceania:hover {
+  fill: #bf1168;
+}

@@ -1,6 +1,5 @@
+import Map from '@/comps/home/map'
 import Head from 'next/head'
-import { Banner } from '@/comps/general/banner'
-import styles from '@/styles/css/Home.module.css'
 
 const Home = () => {
   return (
@@ -9,7 +8,12 @@ const Home = () => {
         <title>Home Page</title>
         <meta property="og:title" content="Home Page" key="title" />
       </Head>
-      <Banner />
+
+      <section className="kyn__map">
+        <h2 className="kyn__mapTitle section-title">The Continents</h2>
+        <Map />
+      </section>
+      
     </>
   )
 }
