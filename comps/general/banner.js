@@ -1,7 +1,7 @@
 import { useRouter } from 'next/router';
 import * as AnimationData from '@/public/anim.json';
 import styles from '@/styles/css/Banner.module.css';
-import globe from '@/public/mapDavy.gif';
+import globe from '@/public/MapDavy.gif';
 import Image from 'next/image';
 
 
@@ -9,15 +9,6 @@ export const Banner = ({title}) => {
 
     const router = useRouter()
 
-    const defaultOptions = {
-        loop: true,
-        autoplay: true,
-        animationData: AnimationData,
-        rendererSettings: {
-            preserveAspectRatio: 'xMidYMid slice'
-        }
-    }
-    
     return(
         router.pathname === "/" 
         ?
