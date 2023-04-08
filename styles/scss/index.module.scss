@@ -1,0 +1,7 @@
+.map {
+    margin-bottom: 1rem;
+
+    @media (min-width: 960px) {
+        margin-bottom: 2rem;
+    }
+}

@@ -33,6 +33,10 @@
   align-items: center;
   height: 100%;
 }
+.bannerWrapper img {
+  height: 100%;
+  width: auto;
+}
 
 .title {
   color: #ffffff;

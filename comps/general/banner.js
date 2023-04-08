@@ -1,12 +1,14 @@
 import { useRouter } from 'next/router';
 import * as AnimationData from '@/public/anim.json';
 import styles from '@/styles/css/Banner.module.css';
+import globe from '@/public/map-Davy.gif';
+import Image from 'next/image';
 
 
 export const Banner = ({title}) => {
 
     const router = useRouter()
-    console.debug(router.pathname)
+    
     const defaultOptions = {
         loop: true,
         autoplay: true,
@@ -23,14 +25,7 @@ export const Banner = ({title}) => {
             <div className='container mx-auto'>   
                 <div className={`kyn__bannerWrapper ${styles.bannerWrapper}`}>
                     <h2 className={`kyn__banner--title ${styles.title}`}>Know Your Nations</h2>
-            
-                    {/* <Lottie
-                        className='kyn__bannerGlobe'
-                        options={defaultOptions}
-                        height={800}
-                        width={800}
-                        style={{zIndex: "1"}}
-                    /> */}
+                    <Image src={globe} alt="Globe" />
                 </div>
             </div>
         </div> 

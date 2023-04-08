@@ -1,0 +1,725 @@
+{
+    "Afghanistan":{
+       "fact":"Afghanistan is home to world's oldest oil paintings."
+    },
+    "Andora":{
+       "fact":"Andorra is the most popular tourist destination in the world. 8 – 10 million people visit Andorra each year taking advantage of winter sports."
+    },
+    "Antigua & Barbuda":{
+       "fact":"The highest peak in Antigua and Barbuda is namesd after President Barack Obama."
+    },
+    "Anguilla":{
+       "fact":"The country was named after Spanish word for Eel, because of its ell-like shape"
+    },
+    "Armenia":{
+       "fact":"The first Church in the world was built in Amenia"
+    },
+    "Albania":{
+       "fact":"People here consider it very lucky if a baby pees on you"
+    },
+    "Angola":{
+       "fact":"The famous Brazilian Dance 'Samba' seems to have originated from Angola"
+    },
+    "Argentina":{
+       "fact":"Argentina holds a unique record of having 5 different presidents in a span of 10 days"
+    },
+    "American Samoa":{
+       "fact":"It is the smallest inhabited U.S. territory. As of 2020, it's population was a little less than 50,000"
+    },
+    "Austria":{
+       "fact":"Austria is home to the oldest restaurant in the world"
+    },
+    "Australia":{
+       "fact":"80% of animals found in Australia are unique to Australia only"
+    },
+    "Aruba":{
+       "fact":"All of the water in produced by desalination and is some of the purest in the world ready to drink straight through the tap"
+    },
+    "Åland":{
+       "fact":"In Åruba, there is a rule called \"Everyone's Right\". It means you can camp anywhere in Åland for free as long as you are not causing nuisance to anyone"
+    },
+    "Azerbaijan":{
+       "fact":"Azerbaijan (Land of Fire) got it's name from the the burning hillsides caused by gas seeping up through the earth for over 4,000 years."
+    },
+    "Bosnia & Herzogovina":{
+       "fact":"The last remaining rainforest in Europe (Perućica) is located in Bosnia & Herzogovina."
+    },
+    "Barbados":{
+       "fact":"Barbados is the birthplace of rum and has been producing rum since 1703."
+    },
+    "Bangladesh":{
+       "fact":"Dhaka, the capital city of Bangladesh is the most densely populated city in the world."
+    },
+    "Belgium":{
+       "fact":"Contrary to its name, French Fires originated from Belgium"
+    },
+    "Burkina Faso":{
+       "fact":"Burkina Faso has the largest elephant population in the world"
+    },
+    "Bulgaria":{
+       "fact":"Bulgarians have some of the strangest and amusing supersititons including  not whistling inside as it will take away all your money and not gifting knives as it will sever your relationship."
+    },
+    "Bahrain":{
+       "fact":"Bahrain was the first nation to adopt Islam and is said to be home to one of the oldest mosques in the region (Khamis)"
+    },
+    "Burundi":{
+       "fact":"Jogging is banned in Burundi. This was becasue president thought it was an opportunity to plan anti-government activities"
+    },
+    "Benin":{
+       "fact":"The country is known for it's love for snakes. They even have a temple titled \"Temple of Pythons\" where snakes roam around freely"
+    },
+    "St Barthéleemy":{
+       "fact":"Christopher Colombus discovered the Carribean Island in 1493 and named it after his brother Bartomoléo"
+    },
+    "Bermuda":{
+       "fact":"While assumed to be part of the Carribean, Bermuda is much more closer to the United States with only about 640 miles from the natural mainland"
+    },
+    "Brunei":{
+       "fact":"Brunei olds th wolrd record for largest presidential palace in the world, Istana Nirul Iman spanning more than 2 million sq. ft."
+    },
+    "Bolivia":{
+       "fact":"There is an actual hotel built entirely of Salt in Bolivia. Everything ranging from floor, ceiling and walls is entirely made of walls including sculpures and furnishings."
+    },
+    "Bonaire":{
+       "fact":"Bonaire is considered the diving capital of the world with more than 50 diving sites across its entire coastline."
+    },
+    "Brazil":{
+       "fact":"The carnival in Brazil is the largest carnival in the world with more than 2 million people coming to the streets dancing and celebrating."
+    },
+    "Bahamas":{
+       "fact":"Apart from being an exotic holiday destination, Bahamas has important historical significance as its said to be the landing place of Christopher Columbus."
+    },
+    "Bhutan":{
+       "fact":"There is not even a single traffic light in the whole country."
+    },
+    "Bouvet Island":{
+       "fact":"It is the most remote island in the world with no one living on it. It is 93% glaciated."
+    },
+    "Botswana":{
+       "fact":"Botswana is the largest producer of Diamonds in the world in terms of value."
+    },
+    "Belarus":{
+       "fact":"Over 40% of Belarus is covered in Forests most of which are swamps which absorb a large amount of Carbon-dioxide from the atmosphere and are very popular among visitors."
+    },
+    "Belize":{
+       "fact":"With just over 12,000 inhabitants, Belize has the allest capital of the world (Belmopan)."
+    },
+    "Canada":{
+       "fact":"Apart from being the second largest country in the world, Canada shares the longest unmanned border in the world with United States."
+    },
+    "Cocos Islands":{
+       "fact":"Its the only place in the wolrd where you can walk aound an entire atoll."
+    },
+    "Congo":{
+       "fact":"Bonboo, a species of Chimpanzee (you might recognise it from <i>Planet of the Apes</i>) is the closest relative of human species and is found only in Congo."
+    },
+    "Central African Republic":{
+       "Fact":"It is one of the poorest (if not the poorest) countries in the world with an alarming rate of poverty and malnourishment."
+    },
+    "Switzerland":{
+       "fact":"Suicide is legal in Switzerland provided the person is themselves commiting the act by their own hand. It attracts a lot of \"Suicide Tourists\"."
+    },
+    "Côté D'Ivoire":{
+       "fact":"The largest church in the world, Basilique Notre-Dame de la Paix (Basilica of Our Lady of Peace) is in Côté D'Ivoire."
+    },
+    "Cook Islands":{
+       "fact":"There are no fast food chains in Cook Islands."
+    },
+    "Chile":{
+       "fact":"Chile has the world's largest swimming pool."
+    },
+    "Cameroon":{
+       "fact":"The football team of Cameroon is the most successful in Africa with being the first African team to qualify in FIFA World Cup."
+    },
+    "China":{
+       "fact":"Being the fourth largest country in the world, it has only one time zone causing real issues for the citizens of China."
+    },
+    "Columbia":{
+       "fact":"It is the only country in South America that has coastlines on both the Pacific Ocean and the Carribean Sea."
+    },
+    "Costa Rica":{
+       "fact":"About 99% of energy in Costa Rica is generated using renewable resources including hydropower, wind, geothermal energy, biomass, and solar."
+    },
+    "Cuba":{
+       "fact":"Apart from North Korea, Cuba is the only country in th world where Coke cannot legally bought or sold."
+    },
+    "Cape Verde":{
+       "fact":"No one is native to Cape Verde. First settlers arrived here in 1456."
+    },
+    "Curaçao":{
+       "fact":"Curaçao has a signature orange colored liquor made from the peels of Laraha Orange found only in Curaçao."
+    },
+    "Christmas Island":{
+       "fact":"Christmas Island got its name as it was discovered on Christmas Day."
+    },
+    "Cyprus":{
+       "fact":"One whole town (Paphos) in Cyprus has been designated as a UNESCO World Heritage Site."
+    },
+    "Czech Republic":{
+       "fact":"Czech Republic has the largest castle density in the world with more than 2,000 castle all over the country."
+    },
+    "Germany":{
+       "fact":"Germany is the birthplace of printing. The first printing press was established in Germany in 1663."
+    },
+    "Djibouti":{
+       "fact":"Lake Assal, located in Djibouti is 155m below the sea level, lowest in Africa and is 10 times salty than the ocean."
+    },
+    "Denmark":{
+       "fact":"The Danish Flag is the oldest in the world with it being mroe than 800 years old."
+    },
+    "Dominica":{
+       "fact":"One proud facts Dominicans never forget to mention is that Pirates of the Carribean - Dead Man's Chest was filmed here."
+    },
+    "Algeria":{
+       "fact":"In Algeria, petrol is cheaper than water."
+    },
+    "Ecuador":{
+       "fact":"With Ecuador lying on the equator and having the highest peak for an equatorial country, it makes the tip of the mountain closest to the Sun and farthest from the center of earth."
+    },
+    "Estonia":{
+       "fact":"Estonia has the highest number of international supermodels per capita in the world."
+    },
+    "Egypt":{
+       "fact":"The 12-month calendar we use today was invented in Egypt. "
+    },
+    "Western Sahara":{
+       "fact":"Due to large parts of the country being flat, arid desert land, it is one of the most sparsely populated regions in the world."
+    },
+    "Eritrea":{
+       "fact":"Eritrea is the first country in the world to allocate its entire coastline as a reserve."
+    },
+    "Spain":{
+       "fact":"The oldest restaurant in the world, 'El Restaurante Botín', is located in Madrid, Spain."
+    },
+    "Ethiopia":{
+       "fact":"Ethiopia is said to be the birthplace of coffee."
+    },
+    "Finland":{
+       "fact":"Finland is called the land of thousand lakes. But actually, Finland has well over 180,000 lakes."
+    },
+    "Fiji":{
+       "fact":"The art of Firewalking was originated in Fiji and has a very interesting origin story."
+    },
+    "Falkland Islands":{
+       "fact":"If you want to see Penguins and don't plan on going to Antarctica any time soon, Falkland Islands is the place to go. There are over 500,000 pairs of breeding penguins here."
+    },
+    "Micronesia":{
+       "fact":"Nan Madol, an ancient city present in Micronesia, is the the only structure built on coral reef."
+    },
+    "Faroe Islands":{
+       "fact":"There are more sheep than people on faroe Islands."
+    },
+    "France":{
+       "fact":"The French cuisine and gastronomy is so popular and celebrated that it got UNESCO World Heritage status in 2010."
+    },
+    "Gabon":{
+       "fact":"The national flag of Gabon is Blue, Yellow and Green colored horizontal strips with Blue representing Sky, Green signifies land and yellow is the equator."
+    },
+    "United Kingdom":{
+       "fact":"While most people use Great Britain and United Kingdom interchangeably, they are not the same. Great Britain does not include Ireland. "
+    },
+    "Grenada":{
+       "fact":"Grenada is also called the 'Island of Spices' as they are an important producer and supplier of a variety of spices including nutmeg, cinnamon, ginger and turmeric."
+    },
+    "Georgia":{
+       "fact":"Georgia is the birthplace of wine and their technique of producing wine has even been listed on the UNESCO Tangible Cultural World Heritage list."
+    },
+    "French Guiana":{
+       "fact":"The European Space Center is in French Guiana as it is the closest point in Europe to the equator. Being closer to equator is beneficial when launching rockets into space."
+    },
+    "Geurnsey":{
+       "fact":"This small island nation was once connected to mainland Europe but the rising sea levels submerged the link around 8,000 years ago."
+    },
+    "Ghana":{
+       "fact":"There is only one lake in the whole country - Lake Bosumtwe, and it was created with a meteorite impact a million years ago."
+    },
+    "Gibraltar":{
+       "fact":"While Gibraltar is British Overseas territory, Spain lays claim on the country as it is literally just a street across the nation."
+    },
+    "Greenland":{
+       "fact":"Nuuk, the capital city of Grennland, is the morthernmost capital city in the world."
+    },
+    "Gambia":{
+       "fact":"Gambiaa is one of only 2 countries in the world to to use word 'The' in theier name. The other one is 'The Bahamas'."
+    },
+    "Guinea":{
+       "fact":"Guinea is full of minerals and natural resources. It has the largest deposits of bauxite and iron ore in the world and is a gold and diamond producer."
+    },
+    "Guadeloupe":{
+       "fact":"There was slavery in Guadeloupe up until 1848."
+    },
+    "Equitorial Guinea":{
+       "fact":"The world's largest frog can be found in Equitorial Guinea."
+    },
+    "Greece":{
+       "fact":"Greece is also known by one other name, Hellenic Republic."
+    },
+    "South Georgia and South Sandwich Islands":{
+       "fact":"Given the remote location and harsh climate since it's far south, there is no place to stay on the island. You go by ship and stay on it and make day trips to island."
+    },
+    "Guatemala":{
+       "fact":"The first ever chocolate bar was invented in Guatemala."
+    },
+    "Guam":{
+       "fact":"It is the farthest US citizens can go from mainland US without leaving US soil."
+    },
+    "Guinea-Bissau":{
+       "fact":"It's one of the few countries in the world not having a single UNESCO world heritage site. It also doesn't have a single property on list of tentative UNESCO sites."
+    },
+    "Guyana":{
+       "fact":"Guyana is famous for its contribution to Cricket. It has produced some of the finest cricketers for West Indies who ruled the cricket world in 1970s and 80s."
+    },
+    "Hong Kong":{
+       "fact":"Hong Kong boasts the world’s longest covered escalator. The Mid-Levels Escalator and walkway system in Hong Kong runs for a half-mile."
+    },
+    "Heard Island and McDonald Island":{
+       "fact":"The volcano present on Heard Island is called Big Ben and is an active volcano which has erupted several times in the last two decades."
+    },
+    "Honduras":{
+       "fact":"The Comayagua Cathedral in Honduras houses oldest clock on the continent and second-oldest clock in the world."
+    },
+    "Croatia":{
+       "fact":"Hum, a town in Croatia is the smallest town in the world."
+    },
+    "Haiti":{
+       "fact":"Haiti was the world's first black led republic where enslaved africans revolted against the armies of British and French colonisers between 1791 and 1804."
+    },
+    "Hungary":{
+       "fact":"Clinking your beer glasses is considered rude in Hungary."
+    },
+    "Indonesia":{
+       "fact":"It's the only place in the world where you can find the Komodo Dragon - largest lizard in the world."
+    },
+    "Ireland":{
+       "fact":"Halloween was invented in Ireland. It's roots date back 2000 years to the Celtic Samhain Festival celebrated the end of summer."
+    },
+    "Israel":{
+       "fact":"Israel is home to the lowest point on Earth - Dead Sea. It lies 420m below the sea level."
+    },
+    "Isle of Man":{
+       "fact":"Isle of Man has the longest running government in the world which has been standing without break ever since 979."
+    },
+    "India":{
+       "fact":"India has the highest percent of vegetarians in its population due to the religious beliefs of people."
+    },
+    "British Indian Ocean Territory":{
+       "fact":"Situated in Indian Ocean, it's a British overseas territory with almost no population."
+    },
+    "Iraq":{
+       "fact":"World's oldest writing came into existence in Iraq."
+    },
+    "Iran":{
+       "fact":"While thumbs up is considered a sign of approval almost everywhere, it's considered a very rude gesture in Iran."
+    },
+    "Iceland":{
+       "fact":"Pingvellir National Park in Iceland is one of only two places on the planet where you can see the split between tectonic plates."
+    },
+    "Italy":{
+       "fact":"World's first bank - Bank of SanGiorgia was opened in Italy in 1149."
+    },
+    "Jersey":{
+       "fact":"One of the English Channel Islands, the island of Jersey experiences partivularyl low tides with its size almost doubling dureing low tides."
+    },
+    "Jamaica":{
+       "fact":"The island nation of Jamaica sits top of an underwater mountain. The submarine range which supports the island is known, unsurprisingly, as the Jamaica Ridge."
+    },
+    "Jordan":{
+       "fact":"Petra, an ancient city discovered in 1812 and one of the 7 Modern Wonders of the World, is only 15% explored."
+    },
+    "Japan":{
+       "fact":"Tokyo, the capital of Japan, is world's most populous city."
+    },
+    "Kenya":{
+       "fact":"The first women to win a nobel prize was from Kenya."
+    },
+    "Kyrgyztan":{
+       "fact":"An interesting historical fact about Kyrgyztan is that the Chinese built the Great Wall of China to prevent themselves from raids from Kyrgyz warriors in 3rd and 4th centuries BC."
+    },
+    "Cambodia":{
+       "fact":"Cambodia’s flag is the only one in the world with a building on it - the illustrious Angkor Wat."
+    },
+    "Kiribati":{
+       "fact":"Kiribati is the first country in the world to ring-in the New Year. The country is furthest ahead of Greenwich meantime at GMT+14."
+    },
+    "Comoros":{
+       "fact":"Comoros is the biggest producer of Yang=Ylang - a flower from which essentials are extracted for making perfumes, in the world."
+    },
+    "St Kitts and Nevis":{
+       "fact":"Saint Kitts and Nevis is a two island country. It holds the title of being the smallest country in the Americas."
+    },
+    "North Korea":{
+       "fact":"In the most secretive country in the world, North Korea, even the haircuts are approved by state."
+    },
+    "South Korea":{
+       "fact":"South Koreans are considered one of the largest drinkers in the world. An average Korean drinks about 12L of alcohol in an year."
+    },
+    "Kuwait":{
+       "fact":"Currency of Kuwait - the Kuwaiti Dinar, is the most expensive currency in the world."
+    },
+    "Cayman Islands":{
+       "fact":"Grand Cayman - the largest of the Cayman Islands, houses 90% of the country's populations."
+    },
+    "Kazakhstan":{
+       "fact":"Kazakhstan shares the longest border in the world with Russia (7512 kms)."
+    },
+    "Laos":{
+       "fact":"Laos is the most bombed country in history. US dropped about 2 million tons of explosives in Laos during Vietnam War."
+    },
+    "Lebanon":{
+       "fact":"Lebanon is home to the world's oldest city - Byblos."
+    },
+    "Saint Lucia":{
+       "fact":"Saint Lucia was the first country in the world to be named after a woman."
+    },
+    "Leichtenstein":{
+       "fact":"Leichtenstein the second least visited country in the world."
+    },
+    "Sri Lanka":{
+       "fact":"Sri Lanka was the first country in the world to have a female Prime Minister."
+    },
+    "Liberia":{
+       "fact":"Liberia means 'Land of the Free.' It is of significance as the country was created for freed slaves by the American Colonization Society in 1821."
+    },
+    "Lesotho":{
+       "fact":"Lesotho is the highest country in the world with it having the \"highest lowest point\" for any country in thr world. "
+    },
+    "Lithuania":{
+       "fact":"During the Holocaust, 91% of Lithuanian Jews were killed."
+    },
+    "Luxembourg":{
+       "fact":"As per international Monetary Fund (IMF), Luxembourg has the highest per capita income in the world."
+    },
+    "Latvia":{
+       "fact":"The most well-known of Christmas traditions - decorating the Christmas tree - have its origins in Riga, Latvia."
+    },
+    "Libya":{
+       "fact":"It is one of the oldest populated areas in Africa with proofs of people being settled here as far back as 12000 BC."
+    },
+    "Morocco":{
+       "fact":"Morocco is a Hollywood favourite when it comes to shooting desert scenes. Many popular movies have been shot here including Mission Impossible, Inception and Prince of Persia."
+    },
+    "Monaco":{
+       "fact":"Monaco is the most expensive luxury residential market in the world. It houses some of the most luxurious, lavish and expensive properties in the world."
+    },
+    "Moldova":{
+       "fact":"Wine here is so popular that there is a whole day dedicated to wine - National Wine Day. Wine producers open up their homes and vineyards to the masses on October 3-4 for National Wine Day, in a country-wide celebration of local hooch."
+    },
+    "Montenegro":{
+       "fact":"Bar, a city in Montenegro, houses the oldest tree in Europe. The olive tree has a circumfrence of about 10 metres."
+    },
+    "Saint Martin":{
+       "fact":"Saint Martin is the only island nation in the world shared by two countries."
+    },
+    "Madagascar":{
+       "fact":"The chocolate that we all love, Madagascar is the top producer of it in the world along with vanilla."
+    },
+    "Marshall Islands":{
+       "fact":"Marshall Islands were used by US for testing of nuclear bombs fro1946 to 1958."
+    },
+    "North Macedonia":{
+       "fact":"There are (supposedly) parts of Jesus' cross on which he was crucified in the foundations of three monasteries in Macedonia – St.Bogodorica Prechista in Kichevo and St.Jovan Bigorski and St.Georgij Pobedonosec in Debar."
+    },
+    "Mali":{
+       "fact":"Mail houses the largest mud brick building in the world."
+    },
+    "Myanmar":{
+       "fact":"Bagan is a city with the highest concentration of temples in the world."
+    },
+    "Mongolia":{
+       "fact":"The great Genghis Khan is the founding father of India."
+    },
+    "Macau":{
+       "fact":"Macau, also known as Macao is a lavish tourist desitination. It has the largest Caino in the world having 640 gaming tables and 1,760 slot machines."
+    },
+    "Northern Mariana Islands":{
+       "fact":"lthough the area is officially known as the Commonwealth of the Northern Marianas, it is, in fact, a US territory. The islanders are therefore recognized as being US citizens."
+    },
+    "Martinique":{
+       "fact":"Martinique, also known as French Guyana, is rum capital of the world and is home to 12 different brands of rum."
+    },
+    "Mauritania":{
+       "fact":"Mauritania was the last country in the world to abolish slavery. It is still in culture of the country and still continues illegally."
+    },
+    "Montserrat":{
+       "fact":"One of the main attractions of Montserrat is a mountain by the same name which is formed of a kind of sedimentary rock."
+    },
+    "Malta":{
+       "fact":"Velatta, the capital city of Malta was the first ever planned city in the world and was sketched out in 1565."
+    },
+    "Mauritius":{
+       "fact":"Dodo, the extinct flightless bird has a great significance in Mauritius and it's even used in their coat of arms."
+    },
+    "Maldives":{
+       "fact":"Maldives is the flattest country in the world."
+    },
+    "Malawi":{
+       "fact":"Lake Malawi, a prominent lake in the country, has the largest number of fish species than any lake in the world."
+    },
+    "Mexico":{
+       "fact":"While the pyramids in Egypt are the most popular, the largest pyramid in the world is present in Mexico - The Pyramid of Cholula."
+    },
+    "Malaysia":{
+       "fact":"Malaysia is the only country in the world to include territory on the mainland of Southeast Asia as well as on the islands that stretch between Asia and Oceania."
+    },
+    "Mozambique":{
+       "fact":"Mozambique is the only country in the world which sports a firearm on their flag."
+    },
+    "Namibia":{
+       "fact":"Namibia is home to world's largest underwater lake."
+    },
+    "New Caledonia":{
+       "fact":"The New Caledonian barrier reef is the largest continuous barrier reef in the world and second in size only to the Great Barrier Reef of Australia."
+    },
+    "Niger":{
+       "fact":"Niger is home to the largest protected area in Africa."
+    },
+    "Nicaragua":{
+       "fact":"Lake nicaragua is the largest lake in the world and is the only place where you can find freshwater sharks."
+    },
+    "Netherlands":{
+       "fact":"Dutch men are the tallest people in the world."
+    },
+    "Norway":{
+       "fact":"Svalbard, a city in norway experiences Midnight Sun in summers, a phenomenon where Sun doesn't set for several weeks."
+    },
+    "Nepal":{
+       "fact":"Nepal is home to some of the world's highest peaks including the tallest peak of Mount Everest."
+    },
+    "Nauru":{
+       "fact":"Nauru is world's smallest island nation."
+    },
+    "Niue":{
+       "fact":"Niue is the World's Largest Raised Coral Atoll."
+    },
+    "New Zealand":{
+       "fact":"Wellington, the capital of New Zealand, is the southern most capital city of the world."
+    },
+    "Oman":{
+       "fact":"Oman is the oldest independent state in the Arab world."
+    },
+    "Panama":{
+       "fact":"Panama is the only country in the world in which you can see the sun rise in in the Pacific Ocean and set on the Atlantic Ocean."
+    },
+    "Peru":{
+       "fact":"The deepest canyon in the world, Cotahuasi Canyon, is also found in Peru. At 11,004 feet deep, it is almost twice as deep as the Grand Canyon."
+    },
+    "French Polynesia":{
+       "fact":"The Tiare Apetahi is the national flower of Tahiti. It's used to signify relationship status. Placing flower behind left ear means you are in relationship and shouldn't be bothered while on right ear means you are single."
+    },
+    "Papua New Guinea":{
+       "fact":"Papua New Guinea is one of the most culturally diverse countries in the world with over 800 languages and over a 1,000 distinct ethnic groups."
+    },
+    "Philippines":{
+       "fact":"The Philippines is called Asia's pearl of the orient for the richness of its culture and the beauty of its landscape."
+    },
+    "Pakistan":{
+       "fact":"Pakistan is famous for manufacture of World Class Footballs. Sialkot produces 70% of all the world's Footballs and even produced footballs for last 2 FIFA World Cups."
+    },
+    "Poland":{
+       "fact":"World's largest Caastle - The Castle of the Teutonic Order in Malbork, Poland is the largest castle in the world by land area."
+    },
+    "Saint Pierre and Miquelon":{
+       "fact":"The islands of Saint Pierre and Miquelon are located in North America, and are in fact the last remaining French territories in the whole of the continent."
+    },
+    "Pitcairn Islands":{
+       "fact":"Pitcairn Islands is the only overseas of United Kingdom in the Pacific Ocean."
+    },
+    "Puerto Rico":{
+       "fact":"Puerto Rico is the oldest colony in the world. It has been US territory since 1898."
+    },
+    "Palestine":{
+       "fact":"Palestine is sometimes referred to Holy Land. It is a sacred place for three major religions: Islam, Christianity, and Judaism."
+    },
+    "Portugal":{
+       "fact":"Portugal is world's top producer and makes 70% of all cork exports."
+    },
+    "Palau":{
+       "fact":"Despite having a population of 18,000, it has 16 states further divided into municipalities. Prett over-governed in my opinion!"
+    },
+    "Paraguay":{
+       "fact":"Paraguay maybe a landlocked nation, but it still has a fully functional navy, coast guard and a river defence corps."
+    },
+    "Qatar":{
+       "fact":"Qatar is the first arabic nation to hold the FIFA World Cup."
+    },
+    "Réunion Island":{
+       "fact":"Réunion officially belongs to France since 1642 and officially became an overseas department in 1946."
+    },
+    "Romania":{
+       "fact":"The heaviest building in the world is in Romania. The Palace of Parliament in Bucharest contains 700,000 tonnes of steel and bronze, 1,000,000 sq. ft. of marble, 3500 tonnes of crystal, and 900,000 sq. mt. of wood."
+    },
+    "Siberia":{
+       "fact":"The Derdap Gorge is the largest in Europe, and it is located in East Serbia."
+    },
+    "Russia":{
+       "fact":"In 1897, Russia sold Alaska to the United States for only 7.2 million dollars. With inflation, that is around 120 million dollars today. At the time, Russia needed the money, and there weren’t many Russian settlers living in Alaska."
+    },
+    "Rwanda":{
+       "fact":"Rwanda has world's record of highest representation of women in parliament."
+    },
+    "Saudi Arabia":{
+       "fact":"Saudi Arabia is the birthplace of Islam."
+    },
+    "Solomon Islands":{
+       "fact":"Solomon Islands is home to world's largest raised coral atoll."
+    },
+    "Seychelles":{
+       "fact":"There are myths about hidden treasures buried in Seychelles."
+    },
+    "Sudan":{
+       "fact":"Sudan is home to more pyramids than Egypt."
+    },
+    "Sweden":{
+       "fact":"Sweden is home to the famous Ice Hotel. Located in the village of Jukkasjärvi, the hotel is crafted each year from two-tonne blocks of ice from the nearby Torne River."
+    },
+    "Singapore":{
+       "fact":"Singapore has the world’s tallest indoor waterfall, which is a towering 35 meters high IN gARDENS BY THE bay."
+    },
+    "Saint Helena":{
+       "fact":"The island of Saint Helena rose from the sea as a volcano."
+    },
+    "Slovenia":{
+       "fact":"Slovenia's capital, Ljubljana was awarded the title of Europe's greenest capital in 2016."
+    },
+    "Svalbard and Jan Mayen":{
+       "fact":"In Svalbard there are more polar bears than people."
+    },
+    "Slovakia":{
+       "fact":"Slovakia is the home to the world's highest number of castles and chateaux per capita."
+    },
+    "Sierra Leone":{
+       "fact":"Blood diamonds, otherwise known as conflict or war diamonds, were mined and sold to fund the Revolutionary United Front (RUF) during Sierra Leone’s brutal civil war in Sierra Leone."
+    },
+    "San Marino":{
+       "fact":"San Marino is the oldest surviving sovereign state and constitutional republic in the world. The official date of its founding is September 3, 301."
+    },
+    "Senegal":{
+       "fact":"Senegal will was the first African country to host the Olympics in 2026."
+    },
+    "Somalia":{
+       "fact":"Somalia has the longest coastline in mainland Africa. It would have been the highest in African continent had it not been for Madagascar which has it's entire border as coastline."
+    },
+    "Suriname":{
+       "fact":"Suriname is the smallest idependent country in South America."
+    },
+    "South Sudan":{
+       "fact":"With South Sudan gaining independence from Sudan in 2011, it is the youngest/newest nation in the world."
+    },
+    "São Tomé and Príncipe":{
+       "fact":"São Tomé and Príncipe is known as the African Galápagos due to its high number of endemic plant and animal species."
+    },
+    "El Salvador":{
+       "fact":"For such a small country, El Salvador has 20 volcanoes. It's also known as t'Land of the Volcanoes'."
+    },
+    "Syria":{
+       "fact":"Damascus, the capital city of Syria is the longest continually inhabited city in the world."
+    },
+    "Eswatini (Swaziland)":{
+       "fact":"Eswatini is Africa’s last absolute monarchy and one of the few remaining in the world. This form of government gives a monarch supreme authority, unimpeded by written laws, legislature or customs."
+    },
+    "Turks and Caicos Islands":{
+       "fact":"The Turks and Caicos Islands have considered joining Canada three times, in 1917, 1974, and 2004."
+    },
+    "Chad":{
+       "fact":"Chad is home to the highest point in the Sahara Desert."
+    },
+    "French Southern Territories":{
+       "fact":"French Southern Territories constitute 3 islands near near Madagascar, scattered islands between Africa and Antarctica and part of Atarctica."
+    },
+    "Togo":{
+       "fact":"Voodo is very popular in Togo and it is home to world's largest Voodoo market."
+    },
+    "Thailand":{
+       "fact":"Thailand is the only Southeast Asian country that was never colonized by an European country."
+    },
+    "Tajikistan":{
+       "fact":"Tajikistan is home to world's longest glacier outside the polar regions."
+    },
+    "Tokelau":{
+       "fact":"Tokelau is the smallest sovereign nation, although it's a leader in renewable energy being the first 100% solar-powered nation in the world."
+    },
+    "East Timor":{
+       "fact":"East Timor is the only Portuguese-speaking country in Asia and one of two predominantly Catholic Asian nations."
+    },
+    "Ashgabat":{
+       "fact":"The capital city of Ashgabat holds the world record for having the highest density of marble buildings in the world."
+    },
+    "Tunisia":{
+       "fact":"The country prides itself on allowing women to inherit land from their parents. Additionally, children can inherit both nationalities and family names from their mothers."
+    },
+    "Tonga":{
+       "fact":"Tonga is the only Pacific country which was never colonised."
+    },
+    "Turkey":{
+       "fact":"The first ever Christian church is located in Antioch, Turkey."
+    },
+    "Trinidad & Tobago":{
+       "fact":"On August 1, 1985, Trinidad and Tobago became the world’s first country to declare a public holiday in commemoration of the abolition of slavery."
+    },
+    "Tuvalu":{
+       "fact":"The largest contributor to country's GDP is their country code domain extension - .tv. It has transformed the economy as companies are willing to pay top dollar to use it."
+    },
+    "Taiwan":{
+       "fact":"Taiwanese kids go to school the longest in the world."
+    },
+    "Tanzania":{
+       "fact":"Tanzania is home to the largest mountain in the world - Mount Kilimanjaro."
+    },
+    "Ukraine":{
+       "fact":"The country is known as 'The Breadbasket of Europe' as the country has excellent conditions for production of wheat."
+    },
+    "Uganda":{
+       "fact":"Lake Victoria in Uganda is the second lagest lake in the world, trailing only to Lake Superior in North America."
+    },
+    "Uzbekistan":{
+       "fact":"Uzbekistan is one of the only two doubly landlocked countries in the world. The only other doubly landlocked country is Leichtenstein."
+    },
+    "USA":{
+       "fact":"The United States is the only country that has all of Earth's five climate zones: tropical, dry, temperate, continental, and polar."
+    },
+    "Uruguay":{
+       "fact":"Uruguay hosted the 1st Soccer World Cup ever."
+    },
+    "Vatican City":{
+       "fact":"An average Vatican resident consumes 54.26 litres of wine every year, giving this country the highest wine consumption rate per capita in the world."
+    },
+    "St Vincent and the Grenadines":{
+       "fact":"The hit franchise Pirates of the Caribbean actually shot multiple scenes from their first 3 instalments in St. Vincent and the Grenadines."
+    },
+    "Venezuela":{
+       "fact":"Venezuela is the only country to win the big four in beauty - Miss World, Miss, Universe, Miss Earth and Miss International and that too multiple times."
+    },
+    "British Virgin Islands":{
+       "fact":"Carribean's oldest rum distilleries (more than 200 years old) can be found on British Virgin Islands."
+    },
+    "US Virgin Islands":{
+       "fact":"The U.S. Virgin Islands is the only place in U.S.A. where you drive to the lef hand side."
+    },
+    "Vietnam":{
+       "fact":"Despite being a tropical country, you can experience snowfall in Vietnam. It snows in a town titled 'Spa'. It's also called Europe in Vietnam."
+    },
+    "Vanuatu":{
+       "fact":"When it comes to natural disasters, it's the world's most dangerous country."
+    },
+    "Wallis and Futuna":{
+       "fact":"Wallis and Futuna Islands were discovered by the Dutch in 1616 but French were the first settlers due to which there is strong French influnce here."
+    },
+    "Samoa":{
+       "fact":"Village Houses in Samoa are called fales, typically round or oval-shaped thatched huts without walls. The open design of these houses expresses the Samoan family’s open nature."
+    },
+    "Kosovo":{
+       "fact":"Kosovo is one of only two countries that has its geographic map as a design element. The other country is Cyprus."
+    },
+    "Yemen":{
+       "fact":"Yemen is the only state in the Arabian Peninsula with a republican government. Every other state has a monarchy."
+    },
+    "South Africa":{
+       "fact":"Almost 80% of Africa's electricity is produced in South Africa."
+    },
+    "Zambia":{
+       "fact":"Zambia was named aftr Zambezi river - the fourth largest river in Africa after Nil, Congo and Niger rivers."
+    },
+    "Zimbabwe":{
+       "fact":"Victoria falls - located in Zimbabwe on the Zambezi river, is the largest waterfall in the world."
+    }
+}

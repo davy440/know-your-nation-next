@@ -9,7 +9,7 @@ export const getStaticProps = async () => {
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
-        query: `{
+        query: `query getCountries {
           countries {
             code
             name

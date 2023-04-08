@@ -1,0 +1,47 @@
+.stats {
+    text-align: center;
+    margin: 2rem auto;
+
+    @media (min-width: 960px) {
+        margin: 4rem auto;
+    }
+
+    .stat {
+        position: relative;
+        margin-bottom: 2rem;
+    
+        &:not(:last-child) {
+            clip-path: polygon(100% 0, 100% 65%, 50% 85%, 0 65%, 0% 0%);
+    
+            &:before {
+                content: "";
+                position: absolute;
+                width: 100%;
+                height: 6rem;
+                top: 85%;
+                left: 0;
+                background-color: #000000;
+                box-shadow: 0 0 70px rgba(0,0,1);
+
+                @media (min-width: 768px) {
+                    box-shadow: 0 0 100px rgba(0,0,1);
+                }
+            }
+        }
+    
+       @media (min-width: 960px) {
+        margin-bottom: 3rem;
+       }
+    }
+}
+
+.title {
+    margin-bottom: 1rem;
+}
+
+.img {
+    display: inline-block;
+    max-width: 40rem;
+    margin-top: 2rem;
+    width: 70%;
+}
