@@ -46,6 +46,7 @@ const AllNations = (props) => {
                 <meta property='og:title' content='All Nations' />
                 <meta description='og:description' content='List of the nations in the world.' />
             </Head>
+            <div class="container">
             <header>
                 <h2 className="pageTitle">List of all the nations in the World</h2>
             </header>
@@ -74,6 +75,7 @@ const AllNations = (props) => {
                 }
                 </tbody>
             </table>
+            </div>
         </>
      );
 }

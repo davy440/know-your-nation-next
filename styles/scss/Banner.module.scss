@@ -4,7 +4,7 @@
 .homeBanner {
     position: relative;
     background: linear-gradient(144deg, rgba(18,29,112,1) 0%, rgba(22,90,222,1) 100%);
-    display: flex;
+    padding-top: 6.25rem;
     
     &:after {
         content: url("../../public/wave.svg");
@@ -15,15 +15,15 @@
         left: 0;
         width: 100%;
         margin-bottom: -1px;
-
     }
 }
 
 .defBanner {
     composes: homeBanner;
+    display: flex;
+    align-items: flex-end;
     height: 20rem;
     color: $white;
-    align-items: flex-end;
 
     &:after {
         content: "";
@@ -31,18 +31,32 @@
 }
 
 .bannerWrapper {
-    display: flex;
-    align-items: center;
     height: 100%;
 
     img {
-        height: 100%;
-        width: auto;
+        width: 100%;
+    }
+
+    @include for-laptop-up {
+        display: flex;
+        align-items: center;
+        height: 37.5rem;
+
+        > * {
+            width: 50%;
+        }
     }
 }
 
 .title {
     color: $white;
+    margin-top: 3rem;
+    text-align: center;
+
+    @include for-laptop-up {
+        margin-top: 0;
+        text-align: left;
+    }
 }
 
 .pageTitle {

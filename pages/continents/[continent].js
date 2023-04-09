@@ -91,6 +91,7 @@ const Continent = (props) => {
                 <meta property='og:title' content={name} />
                 <meta description='og:description' content={`List of the nations in ${name}.`} />
             </Head>
+            <div className="container">
             <table>
                 <thead>
                     <tr>
@@ -113,6 +114,7 @@ const Continent = (props) => {
                     }
                 </tbody>
             </table>
+            </div>
         </>
     )
     

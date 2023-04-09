@@ -412,13 +412,14 @@ h1, h2, h3, h4, h5, h6{
 }
 
 h1, .h1 {
-  font-size: 3.75rem;
-  line-height: 1;
+  font-size: 3rem;
+  line-height: 3.5rem;
   margin-bottom: 1.5rem;
+  font-weight: 700;
 
-  @include for-tablet-up {
-    font-size: 6rem;
-    line-height: 1.5;
+  @include for-laptop-up {
+    font-size: 5rem;
+    line-height: 1.2;
   }
 }
 
@@ -432,7 +433,7 @@ h2, .h2 {
     text-align: center;
   }
 
-  @include for-tablet-up {
+  @include for-laptop-up {
     font-size: 4rem;
     line-height: 1;
   }
@@ -452,25 +453,26 @@ h3, .h3 {
   width: 100%;
   padding-left: 15px;
   padding-right: 15px;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   position: relative;
 }
 
-@media (min-width: 640px){
+@include for-phone-up {
   .container{
-    max-width: 640px;
+    max-width: 30rem;
   }
 }
 
-@media (min-width: 768px){
+@include for-tablet-up {
   .container{
-    max-width: 768px;
+    max-width: 48rem;
   }
 }
 
-@media (min-width: 1024px){
+@include for-laptop-up {
   .container{
-    max-width: 1024px;
+    max-width: 60rem;
   }
 }
 

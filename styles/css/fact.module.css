@@ -74,4 +74,10 @@
 
 .factContent {
   font-size: 1.25rem;
+  padding-right: 3rem;
+}
+@media (min-width: 960px) {
+  .factContent {
+    padding-right: 0;
+  }
 }
