@@ -4,7 +4,7 @@
 .homeBanner {
     position: relative;
     background: linear-gradient(144deg, rgba(18,29,112,1) 0%, rgba(22,90,222,1) 100%);
-    padding-top: 6.25rem;
+    padding: 6.25rem 0;
     
     &:after {
         content: url("../../public/wave.svg");
@@ -15,6 +15,10 @@
         left: 0;
         width: 100%;
         margin-bottom: -1px;
+    }
+
+    @include for-laptop-up {
+        padding: 6.25rem 0 4rem;
     }
 }
 

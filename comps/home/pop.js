@@ -16,10 +16,9 @@ const Pop = () => {
             };
             const query = await fetch('https://get-population.p.rapidapi.com/population', options);
             const pop = await query.json();
-            console.log(pop);
             const {readable_format} = await pop;
 
-            updatePop(readable_format);
+            updatePop(await readable_format);
         }
         setInterval(fetchData, 5000);
     }, []);

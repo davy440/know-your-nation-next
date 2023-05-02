@@ -76,8 +76,7 @@ export const getStaticProps = async (context) => {
         props: {
             continentData,
             title: continentData.data.continent.name
-        },
-        revalidate: 1
+        }
     }
 }
 

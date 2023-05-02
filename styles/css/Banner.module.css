@@ -5,7 +5,7 @@
 .homeBanner {
   position: relative;
   background: linear-gradient(144deg, rgb(18, 29, 112) 0%, rgb(22, 90, 222) 100%);
-  padding-top: 6.25rem;
+  padding: 6.25rem 0;
 }
 .homeBanner:after {
   content: url("../../public/wave.svg");
@@ -16,6 +16,11 @@
   left: 0;
   width: 100%;
   margin-bottom: -1px;
+}
+@media (min-width: 60rem) {
+  .homeBanner {
+    padding: 6.25rem 0 4rem;
+  }
 }
 
 .defBanner {
