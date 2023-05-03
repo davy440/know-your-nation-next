@@ -30,8 +30,8 @@ const Home = ({ country }) =>  {
   return (
     <>
       <Head>
-        <title>Home Page</title>
-        <meta property="og:title" content="Home Page" key="title" />
+        <title>Know Your Nations</title>
+        <meta property="og:title" content="Know Your Nations" key="title" />
       </Head>
 
       <section className={`kyn__map ${styles.map}`}>
